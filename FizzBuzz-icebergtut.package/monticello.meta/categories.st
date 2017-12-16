@@ -1,2 +1,2 @@
 SystemOrganization addCategory: #'FizzBuzz-icebergtut'!
-SystemOrganization addCategory: #'FizzBuzz-icebergtut-Tests'!
+SystemOrganization addCategory: 'FizzBuzz-icebergtut-Tests'!
